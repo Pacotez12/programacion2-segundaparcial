@@ -1,4 +1,4 @@
-# Aplicacion Examen
+# Aplicacion Examen Segundo Parcial Marco Brizuela
 
 Aplicación Android (Java) para **Programación II – Segunda Parcial** que cumple con:
 
