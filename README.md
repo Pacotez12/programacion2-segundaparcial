@@ -1,4 +1,4 @@
-# ClienteUploader
+# Aplicacion Examen
 
 Aplicación Android (Java) para **Programación II – Segunda Parcial** que cumple con:
 
