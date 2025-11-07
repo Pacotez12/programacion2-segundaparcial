@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.uninorte.SegundoParcial.app-mergeDebugResources-37:/layout/activity_multi_upload.xml",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/activity_multi_upload.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-mergeDebugResources-37:/layout/dialog_success.xml",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/dialog_success.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-mergeDebugResources-37:/layout/activity_client_form.xml",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/activity_client_form.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-mergeDebugResources-37:/layout/dialog_loading.xml",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/dialog_loading.xml"
+    }
+]

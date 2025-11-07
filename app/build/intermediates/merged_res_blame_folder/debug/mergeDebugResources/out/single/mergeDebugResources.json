@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/layout_activity_multi_upload.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/activity_multi_upload.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/drawable_unnamed.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/drawable/unnamed.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/color_white.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/color/white.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/drawable_bg_loading.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/drawable/bg_loading.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/drawable_rounded_button.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/xml_file_paths.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/layout_dialog_success.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/dialog_success.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/color_black.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/color/black.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/layout_activity_client_form.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/activity_client_form.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.uninorte.SegundoParcial.app-debug-38:/layout_dialog_loading.xml.flat",
+        "source": "com.uninorte.SegundoParcial.app-main-40:/layout/dialog_loading.xml"
+    }
+]

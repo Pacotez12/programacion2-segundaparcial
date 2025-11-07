@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.ProgramacionExamen" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Barra de notificaciones legible -->
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Navigation bar -->
+        <item name="android:navigationBarColor">#FFFFFF</item>
+
+        <!-- Fondo transparente -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        <!-- Botones blancos redondeados -->
+        <item name="materialButtonStyle">@style/WhiteRoundedButton</item>
+
+        <!-- Evitar color lila global -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+    </style>
+
+    <style name="WhiteRoundedButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

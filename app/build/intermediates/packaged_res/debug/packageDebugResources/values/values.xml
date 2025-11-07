@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0036F6</color>
+    <string name="app_name">Aplicación Exámen</string>
+    <string name="base_url">https://webhook.site/7704c975-0007-4ee0-8dbf-c47e8d5b4d12/</string>
+    <style name="Theme.ProgramacionExamen" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        
+        <item name="android:navigationBarColor">#FFFFFF</item>
+
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        
+        <item name="materialButtonStyle">@style/WhiteRoundedButton</item>
+
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+    </style>
+    <style name="WhiteRoundedButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>

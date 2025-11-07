@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent">
+
+        <EditText
+            android:id="@+id/etCi"
+            android:hint="Número de cédula"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/etNombre"
+            android:hint="Nombre completo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/etDireccion"
+            android:hint="Dirección"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/etTelefono"
+            android:hint="Número de teléfono"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!-- ✅ PREVIEW DE IMAGEN -->
+        <ImageView
+            android:id="@+id/imgPreview"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:visibility="gone"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent" />
+
+        <!-- ✅ BOTONES BLANCOS REDONDEADOS -->
+        <Button
+            android:id="@+id/btnFoto1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Capturar imagen 1"
+            android:background="@drawable/rounded_button"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/btnFoto2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Capturar imagen 2"
+            android:background="@drawable/rounded_button"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/btnFoto3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Capturar imagen 3"
+            android:background="@drawable/rounded_button"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/btnEnviar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enviar datos"
+            android:background="@drawable/rounded_button"
+            android:textColor="#000000" />
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            style="?android:attr/progressBarStyleLarge" />
+    </LinearLayout>
+</ScrollView>
